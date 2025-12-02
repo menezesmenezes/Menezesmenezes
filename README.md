@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-end em formação`**
 
-Olá! Sou o Gilberto, tenho 21 anos e estou trilhando minha jornada no mundo da tecnologia. Atualmente, curso **Análise e Desenvolvimento de Sistemas** na **UNINOVE – campus Vergueiro**, e tenho como foco principal o **desenvolvimento Back-end**.
+Olá! Sou o Gilberto, tenho 22 anos e estou trilhando minha jornada no mundo da tecnologia. Atualmente, curso **Análise e Desenvolvimento de Sistemas** na **UNINOVE – campus Vergueiro**, e tenho como foco principal o **desenvolvimento Back-end**.
 
 Sou apaixonado por criar soluções que realmente funcionam e impactam, buscando sempre aprender novas tecnologias, boas práticas de código e me conectar com a comunidade dev.
 
